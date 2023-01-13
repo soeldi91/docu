@@ -4,7 +4,6 @@ theme:
   features:
     - navigation.instant
 
-
 # Page tree
 nav:
   - Home: index.md
@@ -13,3 +12,4 @@ nav:
     - Authentication: Security\Authentication\Token.md
   - Workplace:
     - AVD: Workplace\AVD\AZ-140.md
+    - VD: Workplace\AVD\AZ-140.md
