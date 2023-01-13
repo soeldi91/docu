@@ -7,6 +7,9 @@ theme:
 
 # Page tree
 nav:
-  - Home: Security\Angriffe\Angriffe.md
-  - Getting started:
-    - Installation: Security\Angriffe\Angriffe.md
+  - Home: index.md
+  - Security:
+    - Angriffe: Security\Angriffe\Angriffe.md
+    - Authentication: Security\Authentication\Token.md
+  - Workplace:
+    - AVD: Workplace\AVD\AZ-140.md
