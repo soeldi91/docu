@@ -1,0 +1,12 @@
+site_name: My Docs
+theme:
+  name: material
+  features:
+    - navigation.instant
+
+
+# Page tree
+nav:
+  - Home: Security\Angriffe\Angriffe.md
+  - Getting started:
+    - Installation: Security\Angriffe\Angriffe.md
