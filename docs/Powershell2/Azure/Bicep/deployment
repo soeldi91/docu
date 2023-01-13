@@ -1,0 +1,6 @@
+
+https://github.com/Azure/bicep/blob/main/docs/tutorial/03-using-expressions.md
+
+
+az deployment group create -f ./main.bicep -g my-rg --parameters location=westus storageAccountName=uniquelogstorage001
+
