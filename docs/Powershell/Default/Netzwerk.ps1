@@ -28,8 +28,6 @@ Get-ItemProperty -Path "HKLM:\Software\Microsoft\Windows\CurrentVersion\Internet
 $(get-item "HKCU:\SOFTWARE\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMapKey").property
 $(get-item "HKLM:\SOFTWARE\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMapKey").property
 
-intranet.pbihag.net
-
 
 # Client Netzwerktreiber Metric
 Get-NetIPInterface | Where-Object {$_.InterfaceAlias -contains "Ethernet"} | Set-NetIPInterface -InterfaceMetric 5
