@@ -1,5 +1,20 @@
-# Log4J
 
+# Übersicht der Angriffe
+
+| Name                                | Jahr   | Beschreibung                                                                                                                                                                                                                                                                                                            |
+|-------------------------------------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Spectre und Meltdown               | 2018   | Sicherheitslücken in modernen Prozessoren, die es Angreifern ermöglichen, auf vertrauliche Daten zuzugreifen.                                                                                                                                                                                                            |
+| WannaCry                            | 2017   | Ein Ransomware-Angriff, der Tausende von Computern weltweit infizierte und den Opfern Lösegeldzahlungen abverlangte.                                                                                                                                                                                                       |
+| NotPetya                            | 2017   | Ein weiterer Ransomware-Angriff, der weltweit Unternehmen und Organisationen betraf, indem er ihre Computersysteme verschlüsselte und Lösegeldforderungen stellte.                                                                                                                                                       |
+| Stuxnet                             | 2010   | Ein Virus, der speziell darauf ausgelegt war, industrielle Steuerungssysteme anzugreifen. Stuxnet wurde vermutlich von staatlich unterstützten Hackern entwickelt und zielt auf das iranische Atomprogramm ab.                                                                                                            |
+| SQL-Injection                       | unbekannt | Eine Art von Angriff, die es Hackern ermöglicht, böswilligen Code in eine Website einzuschleusen, indem sie Schwachstellen in einer SQL-Datenbank ausnutzen.                                                                                                                                                              |
+| Phishing                            | unbekannt | Eine Art von Angriff, bei dem ein Angreifer versucht, Benutzer dazu zu bringen, vertrauliche Informationen preiszugeben, indem er sich als vertrauenswürdige Quelle ausgibt, z.B. eine Bank oder ein Unternehmen.                                                                                                       |
+| Distributed-Denial-of-Service (DDoS) | unbekannt | Eine Art von Angriff, bei dem ein Angreifer eine Website oder einen Server überlastet, indem er massenhaft Anfragen sendet, um die Verfügbarkeit zu beeinträchtigen oder zu blockieren.                                                                                                                                |
+| Log4j                               | 2021   | Eine kritische Sicherheitslücke in der Java-basierten Logging-Bibliothek Log4j, die es Angreifern ermöglicht, Schadcode auszuführen und das betroffene System zu übernehmen, wenn es versucht, eine manipulierte Log4j-Konfigurationsdatei zu lesen. Die Auswirkungen sind weitreichend und betreffen viele Unternehmen und Organisationen. |
+
+
+
+# Log4J
 
 
 # Meltdown and Spectre
