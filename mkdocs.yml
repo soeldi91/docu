@@ -11,7 +11,7 @@ nav:
     - Angriffe: Security/Angriffe/Angriffe.md
     - Authentication: Security\Authentication\Token.md
   - Workplace:
-    - AVD: Workplace\AVD\AZ-140.md
+    - AVD: Workplace/AVD/AZ-140.md
 
 
 
