@@ -60,18 +60,6 @@ theme:
   features:
     - navigation.instant
 
-# Page tree
-nav:
-  - Home: index.md
-  - Security:
-    - Angriffe: Security/Angriffe/Angriffe.md
-    - Authentication: Security\Authentication\Token.md
-  - Workplace:
-    - AVD: Workplace/AVD/AZ-140.md
-
-
-
-
 theme:
   name: material
   custom_dir: material/.overrides
@@ -118,3 +106,14 @@ theme:
   favicon: assets/favicon.png
   icon:
     logo: logo
+    
+    
+# Page tree
+nav:
+  - Home: index.md
+  - Security:
+    - Angriffe: Security/Angriffe/Angriffe.md
+    - Authentication: Security/Authentication/Token.md
+  - Workplace:
+    - AVD: Workplace/AVD/AZ-140.md
+
